@@ -2,7 +2,14 @@
 ---
 
 @import "{{ site.theme }}"
-    
+body { 
+    font-family: "League Spartan", sans-serif;
+    font-weight: 400;
+}
+h1 {
+    color: #ed2241;
+    font-weight: 700;
+}
 .page-header {
     background-color: #ed2241;
     background-image: linear-gradient(120deg, #ed2241, #dd3750);
