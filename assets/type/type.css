@@ -1,0 +1,19 @@
+@font-face {
+  font-family: 'League Spartan';
+  src: url('LeagueSpartan-Regular.eot'); /* IE9 Compat Modes */
+  src: url('LeagueSpartan-Regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('LeagueSpartan-Regular.woff2') format('woff2'), /* Super Modern Browsers */
+       url('LeagueSpartan-Regular.woff') format('woff'), /* Pretty Modern Browsers */
+       url('LeagueSpartan-Regular.ttf')  format('truetype'), /* Safari, Android, iOS */
+       font-weight:400;
+}
+
+@font-face {
+  font-family: 'League Spartan';
+  src: url('LeagueSpartan-Semibold.eot'); /* IE9 Compat Modes */
+  src: url('LeagueSpartan-Semibold.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('LeagueSpartan-Semibold.woff2') format('woff2'), /* Super Modern Browsers */
+       url('LeagueSpartan-Semibold.woff') format('woff'), /* Pretty Modern Browsers */
+       url('LeagueSpartan-Semibold.ttf')  format('truetype'), /* Safari, Android, iOS */
+       font-weight:700;
+}
